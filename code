@@ -9,7 +9,7 @@ def prompt():
     To collect items, type 'Get {item}, and it will display in your inventory.\n
     Good luck and waddle on!""")
 
-  input("Press any key to begin: ")
+  input("Press enter to begin: ")
 
 def instructions():
   print("To travel, type 'Go {direction}'.\nTo collect items, type 'Get {item}', and it will display in your inventory.\n\n")
